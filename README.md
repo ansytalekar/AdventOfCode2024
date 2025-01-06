@@ -31,4 +31,4 @@ Day 23 - \
 Day 24 - \
 Day 25 - \
 \
-* - Script is an alternate attempt but not successful \
+\* - Script is an alternate attempt but not successful \
