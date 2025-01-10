@@ -38,10 +38,7 @@ def add_to_dict(stones, key, val):
 ############################ Main #######################################
 
 for digit in [int(dig) for dig in input.split()]:
-    if digit in stone_ocean.keys():
-        stone_ocean[digit] += 1;
-    else:
-        stone_ocean[digit] = 1;
+    add_to_dict(stone_ocean, digit, 1);
     
 distinct_count = [len(stone_ocean.keys())];
 
