@@ -10,12 +10,12 @@ Day 02 - LevelSafe.py, LevelList.txt, LevelSafe2.py++ \
 Day 03 - MulLists.py, MulList.txt \
 Day 04 - Wordsearch.py, Wordsearch.txt \
 Day 05 - RulesPrinter.py, Rules_Print.txt \
-Day 06 - \
-Day 07 - \
-Day 08 - \
-Day 09 - \
-Day 10 - \
-Day 11 - \
+Day 06 - GuardPath.py, Map.txt \
+Day 07 - Calibrators.py, Calibrators.txt \
+Day 08 - Antennas.py, Antenna.txt \
+Day 09 - Diskcleaner.py \
+Day 10 - Trail.py, Trail.txt \
+Day 11 - MagicStone.py**, MagicStones2.py \
 Day 12 - \
 Day 13 - \
 Day 14 - \
