@@ -5,8 +5,8 @@ All puzzles completed (50 / 50) \
 Files will be organised into folders for each day at a later date. \
 \
 The below list compiles the files associated with each day: \
-Day 01 - \
-Day 02 - \
+Day 01 - DistanceFinder.py, DistList.cv, SimFinder.py \
+Day 02 - LevelSafe.py, LevelList.txt, LevelList2.txt**, LevelSafe2.py++ \
 Day 03 - \
 Day 04 - \
 Day 05 - \
@@ -31,4 +31,5 @@ Day 23 - \
 Day 24 - \
 Day 25 - \
 \
-\* - Script is an alternate attempt but not successful
+\** - Script is an alternate attempt but not successful
+\++ - Script is an optimised solution and also works
