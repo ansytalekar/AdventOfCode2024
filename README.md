@@ -6,10 +6,10 @@ Files will be organised into folders for each day at a later date. \
 \
 The below list compiles the files associated with each day: \
 Day 01 - DistanceFinder.py, DistList.cv, SimFinder.py \
-Day 02 - LevelSafe.py, LevelList.txt, LevelList2.txt**, LevelSafe2.py++ \
-Day 03 - \
-Day 04 - \
-Day 05 - \
+Day 02 - LevelSafe.py, LevelList.txt, LevelSafe2.py++ \
+Day 03 - MulLists.py, MulList.txt \
+Day 04 - Wordsearch.py, Wordsearch.txt \
+Day 05 - RulesPrinter.py, Rules_Print.txt \
 Day 06 - \
 Day 07 - \
 Day 08 - \
