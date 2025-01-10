@@ -23,7 +23,7 @@ Day 15 - Warehouse.py**, Lanternhouse.py, Lanternhouse.txt \
 Day 16 - ReindeerMaze.py, ReindeerMaze.txt \
 Day 17 - DebuggingAoc.py, Debugger.txt \
 Day 18 - RAM_Run.py, FallingBytes.txt \
-Day 19 - TowelOnsen.py**, TowelOnsen2.py, TowelOnsen3.py**, Towel.txt \
+Day 19 - TowelOnsen.py**, TowelOnsen2.py, TowelOnsen3.py**, Towels.txt \
 Day 20 - PicoRace.py, PicoMap.txt \
 Day 21 - KeypadRobots.py, KeypadCodes.txt \
 Day 22 - SecretNumbers.py, SecretNumbers.txt \
