@@ -22,14 +22,14 @@ Day 14 - Robots.py, Robots.txt \
 Day 15 - Warehouse.py**, Lanternhouse.py, Lanternhouse.txt \
 Day 16 - ReindeerMaze.py, ReindeerMaze.txt \
 Day 17 - DebuggingAoc.py, Debugger.txt \
-Day 18 - \
-Day 19 - \
-Day 20 - \
-Day 21 - \
-Day 22 - \
-Day 23 - \
-Day 24 - \
-Day 25 - \
+Day 18 - RAM_Run.py, FallingBytes.txt \
+Day 19 - TowelOnsen.py**, TowelOnsen2.py, TowelOnsen3.py**, Towel.txt \
+Day 20 - PicoRace.py, PicoMap.txt \
+Day 21 - KeypadRobots.py, KeypadCodes.txt \
+Day 22 - SecretNumbers.py, SecretNumbers.txt \
+Day 23 - LANGamespy, LANNetwork.txt \
+Day 24 - LogicGate.py, LogicGate.txt \
+Day 25 - LockKeys.py, LockKeys.txt \
 \
 \** - Script is an alternate attempt but not successful \
 \++ - Script is an optimised solution and also works
