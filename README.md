@@ -16,12 +16,12 @@ Day 08 - Antennas.py, Antenna.txt \
 Day 09 - Diskcleaner.py \
 Day 10 - Trail.py, Trail.txt \
 Day 11 - MagicStone.py**, MagicStones2.py \
-Day 12 - \
-Day 13 - \
-Day 14 - \
-Day 15 - \
-Day 16 - \
-Day 17 - \
+Day 12 - Garden_Plots.py, Garden.txt \
+Day 13 - ClawMachine.py, Arcade.txt \
+Day 14 - Robots.py, Robots.txt \
+Day 15 - Warehouse.py**, Lanternhouse.py, Lanternhouse.txt \
+Day 16 - ReindeerMaze.py, ReindeerMaze.txt \
+Day 17 - DebuggingAoc.py, Debugger.txt \
 Day 18 - \
 Day 19 - \
 Day 20 - \
